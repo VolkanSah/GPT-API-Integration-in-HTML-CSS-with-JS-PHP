@@ -1,4 +1,4 @@
-# GPTChat 4 API Integration for PHP Websites
+# ChatGPT 4 API Integration for your Websites in PHP
 
 This README.md file will guide you through the process of integrating the GPTChat API into your PHP website, allowing you to set up a chat functionality using OpenAI's language models.
 Table of Contents

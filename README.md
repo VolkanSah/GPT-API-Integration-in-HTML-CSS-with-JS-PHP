@@ -2,13 +2,6 @@
 ChatGPT is interesting, let use it for creating a better world.
 
 This README.md file will guide you through the process of integrating the GPTChat API into your PHP website, allowing you to set up a chat functionality using OpenAI's language models. **Be carful and set Limits on your OpenAi Dashboard**
-Table of Contents
-
-- Prerequisites
-- API Key
-- Setting up the PHP Script
-- Creating a Chat Interface
-- Testing the Chat Functionality
 
 ## Prerequisites
 

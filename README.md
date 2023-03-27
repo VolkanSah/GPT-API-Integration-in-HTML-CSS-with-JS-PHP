@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $input = json_decode(file_get_contents('php://input'), true);
     $message = urlencode($input['message']);
     
-// change this domain to your needs
+// change this domain to your needs, please
     $url = "https://api.gptchat.com/v1/engines/gpt-4/complete?api_key=" . API_KEY . "&message=" . $message;
 
     $response = file_get_contents($url);

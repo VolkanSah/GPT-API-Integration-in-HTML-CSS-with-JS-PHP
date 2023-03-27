@@ -1,7 +1,7 @@
 # ChatGPT 4 API Integration for your Websites in PHP
 ChatGPT is interesting, let use it for creating a better world.
 
-This README.md file will guide you through the process of integrating the GPTChat API into your PHP website, allowing you to set up a chat functionality using OpenAI's language models. **Be carful and set Limits on your OpenAi Dashboard**
+This README.md file will guide you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up a chat functionality using OpenAI's language models. **Be carful and set Limits on your OpenAi Dashboard**
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ This README.md file will guide you through the process of integrating the GPTCha
 
 ## API Key
 
-- Register for an account or log in to the GPTChat API platform.
+- Register for an account or log in to the OpenAi platform.
 - Navigate to the API Keys section and generate a new API key.
 - Store the API key safely, as you will need it in the next step.
 

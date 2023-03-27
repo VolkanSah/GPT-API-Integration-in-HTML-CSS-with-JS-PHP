@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ```
 
-Replace YOUR_API_KEY with the API key you generated in the previous step.
+Replace YOUR_API_KEY with the API key you generated in the previous step and set your api-domain
 
 ## Creating a Chat Interface
 

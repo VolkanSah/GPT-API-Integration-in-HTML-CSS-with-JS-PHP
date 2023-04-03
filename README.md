@@ -8,7 +8,7 @@ This README.md file will guide you through the process of integrating the ChatGP
 -  PHP 7.4 or higher installed on your web server
 -  A web server with support for PHP (e.g., Apache or Nginx)
 -  Knowledge of HTML, CSS, and JavaScript (for designing the chat interface)
--  An API key for the GPTChat API
+-  An API key for the ChatGPT API
 
 ## API Key
 
@@ -178,14 +178,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 ```
-Now you have a basic chat interface to communicate with the GPTChat API.
+Now you have a basic chat interface to communicate with the ChatGPT API.
 Testing the Chat Functionality
 
 - Upload the index.html, style.css, script.js, and gptchat.php files to your web server.
 - Access the index.html file in your browser (e.g., https://yourdomain.com/index.html).
 - Type a message in the chat input field and press Enter or click the Send button to send the message.
--  The GPTChat API should respond with a message from the language model.
+-  The ChatGPT API should respond with a message from the language model.
 
-That's it! You have successfully integrated the GPTChat API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
+That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 
 

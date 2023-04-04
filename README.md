@@ -27,7 +27,7 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 header('Access-Control-Allow-Headers: Content-Type, Authorization');
 
-// Replace YOUR_API_KEY with your actual GPTChat API key
+// Replace YOUR_API_KEY with your actual OpenAi API key
 define('API_KEY', 'YOUR_API_KEY');
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

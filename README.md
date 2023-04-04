@@ -1,9 +1,10 @@
 # ChatGPT 4 API Integration for your Websites in PHP
 ChatGPT is interesting, let use it for creating a better world.
-### Screenshot:
-<img src="interface.png">
+
 
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up a chat functionality using OpenAI's language models. **Be carful and set Limits on your OpenAi Dashboard**
+
+<img src="interface.png">
 
 ## Prerequisites
 

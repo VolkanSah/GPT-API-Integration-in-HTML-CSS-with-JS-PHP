@@ -2,9 +2,7 @@
 ChatGPT is interesting, let use it for creating a better world.
 
 
-This README.md file will guide you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up a chat functionality using OpenAI's language models. **Be carful and set Limits on your OpenAi Dashboard**
-##### Screenshot
-<img src="interface.png">
+This README.md file will guide you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up a chat functionality using OpenAI's 
 
 ## Prerequisites
 
@@ -188,6 +186,10 @@ Testing the Chat Functionality
 - Access the index.html file in your browser (e.g., https://yourdomain.com/index.html).
 - Type a message in the chat input field and press Enter or click the Send button to send the message.
 -  The ChatGPT API should respond with a message from the language model.
+
+language models. **Be carful and set Limits on your OpenAi Dashboard**
+##### Screenshot
+<img src="interface.png">
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 

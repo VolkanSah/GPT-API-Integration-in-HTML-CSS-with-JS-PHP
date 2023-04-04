@@ -188,4 +188,5 @@ Testing the Chat Functionality
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 
-
+### Copyright 
+Volkan Sah Kücükbudak

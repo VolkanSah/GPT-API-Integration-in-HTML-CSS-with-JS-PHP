@@ -1,5 +1,4 @@
 <?php 
-// chatgpt.php 
 // source https://github.com/VolkanSah/ChatGPT-4-API-Integration-on-own-website/
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');

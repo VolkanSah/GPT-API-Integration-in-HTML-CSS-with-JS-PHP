@@ -187,7 +187,8 @@ Testing the Chat Functionality
 - Type a message in the chat input field and press Enter or click the Send button to send the message.
 -  The ChatGPT API should respond with a message from the language model.
 
-language models. **Be carful and set Limits on your OpenAi Dashboard**
+
+**Be carful and set Limits on your OpenAi Dashboard**
 
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
@@ -195,4 +196,4 @@ That's it! You have successfully integrated the ChatGPT API into your PHP websit
 **I appreciate your support and would be grateful if you could share this project with others and give me a "star" on GitHub** or become a sponsor
 
 ### Copyright 
-Volkan Sah Kücükbudak 
+S. Volkan Sah Kücükbudak 

@@ -1,3 +1,4 @@
+// wait for DOM loaded
 document.addEventListener('DOMContentLoaded', () => {
     const chatForm = document.getElementById('chat-form');
     const chatInput = document.getElementById('chat-input');

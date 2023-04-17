@@ -1,5 +1,5 @@
 # ChatGPT 4 API Integration v1.0.0 for your Websites in PHP/JS
-[v2.0.0](https://github.com/VolkanSah/ChatGPT-4-API-Integration-PHP-JS/tree/GPT-4-Chat-API-Integration-v2.0.0)
+[Version:2.0.0](https://github.com/VolkanSah/ChatGPT-4-API-Integration-PHP-JS/tree/GPT-4-Chat-API-Integration-v2.0.0)
 ###### ChatGPT is interesting, let use it for creating a better world.
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up a chat functionality using OpenAI's API 
 ##### Screenshot

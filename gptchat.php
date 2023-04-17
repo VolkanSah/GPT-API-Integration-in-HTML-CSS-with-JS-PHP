@@ -6,19 +6,18 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 header('Access-Control-Allow-Headers: Content-Type, Authorization');
 
-// Replace YOUR_API_KEY with your actual GPTChat API key
-define('API_KEY', 'YOUR_API_KEY');
-// function
+// Importieren der Konfigurationsdatei
+require_once 'config.php';
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $input = json_decode(file_get_contents('php://input'), true);
     $message = urlencode($input['message']);
-// change url to you needs and please ad limits to you openai account
-    $url = "https://api.gptchat.com/v1/engines/gpt-4/complete?api_key=" . API_KEY . "&message=" . $message;
-// get response
+    
+    $url = "https://api.openai.com/v1/engines/" . MODEL . "/completions?api_key=" . OPENAI_API_KEY . "&temperature=" . TEMPERATURE . "&max_tokens=" . MAX_TOKENS . "&top_p=" . TOP_P . "&frequency_penalty=" . FREQUENCY_PENALTY . "&presence_penalty=" . PRESENCE_PENALTY . "&stop=" . urlencode('[" Human:", " AI:"]') . "&prompt=" . $message;
+
     $response = file_get_contents($url);
-    echo $response; // print
+    echo $response;
 } else {
-    // show error if else
     http_response_code(405);
     echo json_encode(['error' => 'Method not allowed']);
 }

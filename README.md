@@ -7,20 +7,17 @@ This README.md file will guide you through the process of integrating the ChatGP
 <img src="interface.png">
 
 ## Prerequisites
-
 -  PHP 7.4 or higher installed on your web server
 -  A web server with support for PHP (e.g., Apache or Nginx)
 -  Knowledge of HTML, CSS, and JavaScript (for designing the chat interface)
 -  An API key for the ChatGPT API
 
 ## API Key
-
 - Register for an account or log in to the OpenAi platform.
 - Navigate to the API Keys section and generate a new API key.
 - Store the API key safely, as you will need it in the next step.
 
 ## Setting up the PHP Script
-
 Create a new PHP file named gptchat.php and place the following code inside it:
 
 ```php

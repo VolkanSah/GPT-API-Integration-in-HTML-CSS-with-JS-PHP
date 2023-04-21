@@ -1,4 +1,5 @@
 # ChatGPT 4 API Integration v2.0.0 for your Websites in PHP/JS
+- [Need free WordPress'Comment reply' Plugin with ChatGPT? Visit:](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP website, with advanced configuration options for the GPT-4 API. In this version, you can fine-tune the API's behavior to better suit your needs while ensuring a more secure and efficient integration.
 
 ### Prerequisites

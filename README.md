@@ -1,4 +1,4 @@
-# ChatGPT 4 API Integration v2.0.0 for your Websites in PHP/JS
+# ChatGPT 4 API Integration v2.0.0 for your Websites in HTML, CSS, JS, PHP
 - [Need free WordPress'Comment reply' Plugin with ChatGPT? Visit:](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 
 

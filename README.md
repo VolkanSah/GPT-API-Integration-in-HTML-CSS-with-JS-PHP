@@ -1,5 +1,5 @@
 # ChatGPT API Integration (in HTML/CSS with JS/PHP)
-###### updated 23.04.2023 (works well) by [VolkanSah](https://github.com/volkansah]
+###### updated 23.04.2023 (works well)
 ![Screenshot](chatgpt.png)
 
 Integration from GPT 3, 3.5 & 4 for your websites in HTML, CSS, JS & PHP
@@ -37,4 +37,5 @@ That's it! You have successfully integrated the ChatGPT API into your PHP websit
 <img src="screenshot.png">
 
 ## Copyright
-S. Volkan Sah Kücükbudak
+[S. Volkan Sah Kücükbudak](https://github.com/volkansah)
+

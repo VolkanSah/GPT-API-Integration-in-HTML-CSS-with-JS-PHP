@@ -1,5 +1,5 @@
 # ChatGPT API Integration (in HTML/CSS with JS/PHP)
-###### updated 23.04.2023
+###### updated 23.04.2023 (works well)
 
 Integration from GPT 3, 3.5 & 4 for your websites in HTML, CSS, JS & PHP
 

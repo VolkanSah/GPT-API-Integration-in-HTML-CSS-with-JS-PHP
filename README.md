@@ -7,7 +7,7 @@ Integration von GPT 3, 3.5 & 4 für Ihre Websites in HTML, CSS, JS & PHP
 
 This README.md file guides you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up chat functionality using OpenAI's API.
 
-<img src="interface.png">
+<img src="screenshot.png">
 
 ## Prerequisites
 -  PHP 7.4 or higher installed on your web server

@@ -6,6 +6,7 @@ Integration von GPT 3, 3.5 & 4 für Ihre Websites in HTML, CSS, JS & PHP
 ###### ChatGPT is interesting, let's use it to create a better world.
 
 This README.md file guides you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up chat functionality using OpenAI's API.
+
 <img src="interface.png">
 
 ## Prerequisites

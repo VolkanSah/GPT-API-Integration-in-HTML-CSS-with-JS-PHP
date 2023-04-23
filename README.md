@@ -2,7 +2,7 @@
 ###### updated 23.04.2023 (works well)
 ![Screenshot](chatgpt.png)
 
-Integration from GPT 3, 3.5 & 4 for your websites in HTML, CSS, JS & PHP
+Example for integration from GPT 3, 3.5 & 4 for your websites in HTML, CSS, JS & PHP
 
 - [need free 'ChatGPT Comment reply' Plugin for WordPress?](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 ###### ChatGPT is interesting, let's use it to create a better world.

@@ -1,6 +1,6 @@
-# ChatGPT API Integration v1.0.1
+# ChatGPT API Integration (in HTML/CSS with JS/PHP)
 
-Integration von GPT 3, 3.5 & 4 für Ihre Websites in HTML, CSS, JS & PHP
+Integration from GPT 3, 3.5 & 4 für Ihre Websites in HTML, CSS, JS & PHP
 
 - [need free 'ChatGPT Comment reply' Plugin for WordPress?](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 ###### ChatGPT is interesting, let's use it to create a better world.

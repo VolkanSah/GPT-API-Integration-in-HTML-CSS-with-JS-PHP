@@ -32,7 +32,7 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 
-Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor.
+**Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor.**
 
 ## Copyright
 S. Volkan Sah Kücükbudak

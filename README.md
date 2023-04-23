@@ -9,8 +9,6 @@ Integration from GPT 3, 3.5 & 4 for your websites in HTML, CSS, JS & PHP
 
 This README.md file guides you through the process of integrating the ChatGPT API into your PHP website, allowing you to set up chat functionality using OpenAI's API.
 
-<img src="screenshot.png">
-
 ## Prerequisites
 -  PHP 7.4 or higher installed on your web server
 -  A web server with support for PHP (e.g., Apache or Nginx)
@@ -23,13 +21,15 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 - Store the API key safely, as you will need it in the next step.
 
 ## Setting Up
-- Create a new PHP file named gptchat.php and use the provided code from the previous conversation.
-- Replace YOUR_API_KEY with the API key you generated earlier.
+- clone this git
+- Replace YOUR_API_KEY with the API key you generated earlier in cofig.php.
 - Upload the index.html, style.css, script.js, and gptchat.php files to your web server.
 - Access the index.html file in your browser (e.g., https://yourdomain.com/index.html).
 - Type a message in the chat input field and press Enter or click the Send button to send the message.
 - The ChatGPT API should respond with a message from the language model.
 - Be careful and set limits on your OpenAI Dashboard
+## Screenshot
+<img src="screenshot.png">
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 

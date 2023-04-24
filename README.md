@@ -29,6 +29,20 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 - The ChatGPT API should respond with a message from the language model.
 - Be careful and set limits on your OpenAI Dashboard
 
+## More information about OpenAi-API Endpoints
+
+
+More Infos
+ENDPOINT	MODEL NAME
+/v1/chat/completions	gpt-4, gpt-4-0314, gpt-4-32k, gpt-4-32k-0314, gpt-3.5-turbo, gpt-3.5-turbo-0301
+/v1/completions	text-davinci-003, text-davinci-002, text-curie-001, text-babbage-001, text-ada-001
+/v1/edits	text-davinci-edit-001, code-davinci-edit-001
+/v1/audio/transcriptions	whisper-1
+/v1/audio/translations	whisper-1
+/v1/fine-tunes	davinci, curie, babbage, ada
+/v1/embeddings	text-embedding-ada-002, text-search-ada-doc-001
+/v1/moderations	text-moderation-stable, text-moderation-latest
+
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 

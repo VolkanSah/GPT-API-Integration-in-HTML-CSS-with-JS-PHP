@@ -30,9 +30,7 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 - Be careful and set limits on your OpenAI Dashboard
 
 ## More information about OpenAi-API Endpoints
-
-
-### More Infos
+change gptchat.php & config.php to your needs
 
 ENDPOINT | MODEL NAME
 -- | --

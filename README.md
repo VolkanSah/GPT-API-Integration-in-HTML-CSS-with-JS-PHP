@@ -48,8 +48,7 @@ You've successfully integrated the ChatGPT API into your PHP website! Now, you c
 <img src="screenshot.png">
 
 ## Thanks
-Thanks
-Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor.
-## Copyright
-[S. Volkan Sah Kücükbudak](https://github.com/volkansah)
+**"Thank you! Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor. Don't forget to follow me for more free ideas and updates!"**
+## Credits
+Copyright: [S. Volkan Sah Kücükbudak](https://github.com/volkansah)
 

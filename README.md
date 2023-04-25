@@ -22,7 +22,8 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 
 ## Setting Up
 - clone this git
-- Replace YOUR_API_KEY in 'config.php with the API key you generated earlier.
+- Replace YOUR_API_KEY and MODEL in 'config.php
+- Replace API_ENDPOINT URL in gptchat.php to your needs (see list below)
 - Upload the index.html, style.css, script.js, and gptchat.php files to your web server.
 - Access the index.html file in your browser (e.g., https://yourdomain.com/index.html).
 - Type a message in the chat input field and press Enter or click the Send button to send the message.

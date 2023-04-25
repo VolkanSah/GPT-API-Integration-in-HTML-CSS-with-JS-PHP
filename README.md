@@ -27,11 +27,11 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 - Upload the index.html, style.css, script.js, and gptchat.php files to your web server.
 - Access the index.html file in your browser (e.g., https://yourdomain.com/index.html).
 - Type a message in the chat input field and press Enter or click the Send button to send the message.
-- The ChatGPT API should respond with a message from the language model.
+- The OpenAI API should respond with a message from the language model.
 - Be careful and set limits on your OpenAI Dashboard
 
 ## OpenAi-API Endpoints
-change gptchat.php & config.php to your needs
+**please change gptchat.php & config.php to your needs**
 
 ENDPOINT | MODEL NAME
 -- | --

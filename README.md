@@ -21,7 +21,7 @@ This README.md file guides you through the process of integrating the ChatGPT AP
 - Store the API key safely, as you will need it in the next step.
 
 ## Setting Up
-- clone this git
+- clone or download this git
 - Replace YOUR_API_KEY and MODEL in 'config.php
 - Replace API_ENDPOINT URL in gptchat.php to your needs (see list below)
 - Upload the index.html, style.css, script.js, and gptchat.php files to your web server.

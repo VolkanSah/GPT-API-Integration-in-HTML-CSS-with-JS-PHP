@@ -4,7 +4,7 @@
 
 #### Example of GPT-3, 3.5, and 4 integration for your websites using HTML, CSS, JS, and PHP.
 
-- [need free 'ChatGPT Comment reply' Plugin for WordPress?](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
+- [free 'ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 ###### ChatGPT is interesting, let's use it to create a better world.
 
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP-based website, enabling chat functionality using OpenAI's API.

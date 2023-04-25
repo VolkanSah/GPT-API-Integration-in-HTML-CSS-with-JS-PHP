@@ -51,5 +51,6 @@ You've successfully integrated the ChatGPT API into your PHP website! Now, you c
 **"Thank you! Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor. Don't forget to follow me for more free ideas and updates!"**
 ## Credits
 Copyright: [S. Volkan Sah Kücükbudak](https://github.com/volkansah)
-## License: This project is copyright © [VolkanSah](https://github.com/volkansah) and is licensed under the MIT License. You are free to use, modify, and distribute the code and assets, as long as the copyright notice and permission notice are preserved in all copies or substantial portions of the software."
+## License
+This project is copyright © [VolkanSah](https://github.com/volkansah) and is licensed under the MIT License. You are free to use, modify, and distribute the code and assets, as long as the copyright notice and permission notice are preserved in all copies or substantial portions of the software."
 

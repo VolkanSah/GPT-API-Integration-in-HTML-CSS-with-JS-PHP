@@ -48,10 +48,11 @@ ENDPOINT | MODEL NAME
 
 That's it! You have successfully integrated the ChatGPT API into your PHP website. You can now customize the chat interface and improve the user experience as needed.
 
-## Thanks
-**Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor.**
 ## Screenshot
 <img src="screenshot.png">
+
+## Thanks
+**Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor.**
 
 ## Copyright
 [S. Volkan Sah Kücükbudak](https://github.com/volkansah)

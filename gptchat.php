@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $message = urlencode($input['message']);
 
     $ch = curl_init();
-
+// Change API-Endpoint URL to your needs
     curl_setopt($ch, CURLOPT_URL, "https://api.openai.com/v1/engines/" . MODEL . "/completions");
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_POST, 1);

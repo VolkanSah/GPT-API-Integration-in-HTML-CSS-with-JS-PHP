@@ -1,5 +1,6 @@
 # ChatGPT API Integration (in HTML/CSS with JS/PHP)
-###### Updated: 25.04.2023 (Working well) **Full Changelog**: https://github.com/VolkanSah/ChatGPT-API-Integration-in-HTML-CSS-with-JS-PHP/compare/1.0.0...1.0.1
+###### Updated: 25.04.2023 (Working well)
+**Full Changelog**: https://github.com/VolkanSah/ChatGPT-API-Integration-in-HTML-CSS-with-JS-PHP/compare/1.0.0...1.0.1
 
 ![Screenshot](chatgpt.png)
 

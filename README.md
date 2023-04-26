@@ -47,6 +47,10 @@ You've successfully integrated the ChatGPT API into your PHP website! Now, you c
 ## Screenshot
 <img src="screenshot.png">
 
+**Please note that this code example is for a basic web application, and you should consider additional security measures (such as rate-limiting) as discussed in the security best practices section.** See [ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
+
+
+
 ## Thanks
 **"Thank you! Your support is appreciated, and I would be grateful if you could share this project with others, give it a "star" on GitHub, or become a sponsor. Don't forget to follow me for more free ideas and updates!"**
 

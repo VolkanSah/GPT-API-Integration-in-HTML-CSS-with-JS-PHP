@@ -1,5 +1,6 @@
 # ChatGPT API Integration (in HTML/CSS with JS/PHP)
 ###### Updated: 25.04.2023 (Working well)
+**Please note that this code example is for a basic web application, and you should consider additional security measures. Please read [ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)!**
 ![Screenshot](chatgpt.png)
 
 #### Example of GPT-3, 3.5, and 4 integration for your websites using HTML, CSS, JS, and PHP.
@@ -9,7 +10,7 @@
 
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP-based website, enabling chat functionality using OpenAI's API.
 
-**Please note that this code example is for a basic web application, and you should consider additional security measures please read [ChatGPT Security Best Practices](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)!**
+
 ## Prerequisites
 -  PHP 7.4 or higher installed on your web server
 -  A web server with support for PHP (e.g., Apache or Nginx)

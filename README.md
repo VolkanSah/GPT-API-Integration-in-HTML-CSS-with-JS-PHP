@@ -1,6 +1,5 @@
 # ChatGPT API Integration (in HTML/CSS with JS/PHP)
 ###### Updated: 25.04.2023 (Working well) Please note that this code example is for a basic web application. 
-[ChatGPT Security Best Practices!](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
 
 ![Screenshot](chatgpt.png)
 

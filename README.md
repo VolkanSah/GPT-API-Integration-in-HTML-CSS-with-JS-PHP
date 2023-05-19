@@ -4,7 +4,7 @@
 ![Screenshot](chatgpt.png)
 
 ### Other Important sources for you!
-- [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/tree/main)
+- [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
 - [ChatGPT Security Best Practices!](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
 - [free 'ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 ###### ChatGPT is interesting, let's use it to create a better world.

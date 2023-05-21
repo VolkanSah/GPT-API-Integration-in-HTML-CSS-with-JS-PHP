@@ -1,4 +1,4 @@
-### some tipps
+### some tips
 - use for better error handling
 ```java
 if (response.ok) {

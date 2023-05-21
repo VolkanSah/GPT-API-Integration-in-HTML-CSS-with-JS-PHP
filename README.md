@@ -1,5 +1,5 @@
 # ChatGPT API Integration (in HTML/CSS with JS/PHP)
-###### Updated: 25.04.2023 (Working well) Please note that this code example is for a basic web application. 
+###### Updated: 21.05.2023 (Working well) Please note that this code example is for a basic web application. 
 
 ![Screenshot](chatgpt.png)
 
@@ -38,13 +38,13 @@ This README.md file will guide you through the process of integrating the ChatGP
 ENDPOINT | MODEL NAME
 -- | --
 /v1/chat/completions | gpt-4, gpt-4-0314, gpt-4-32k, gpt-4-32k-0314, gpt-3.5-turbo, gpt-3.5-turbo-0301
-/v1/completions | text-davinci-003, text-davinci-002, text-curie-001, text-babbage-001, text-ada-001
+/v1/completions | ada, ada-code-search-code, ada-code-search-text, ada-search-document, ada-search-query, ada-similarity, babbage, babbage-code-search-code, babbage-code-search-text, babbage-search-document, babbage-search-query, babbage-similarity, code-davinci-edit-001, code-search-ada-code-001, code-search-ada-text-001, code-search-babbage-code-001, code-search-babbage-text-001, curie, curie-instruct-beta, curie-search-document, curie-search-query, curie-similarity, davinci, davinci-instruct-beta, davinci-search-document, davinci-search-query, davinci-similarity, text-ada-001, text-babbage-001, text-curie-001, text-davinci-001, text-davinci-002, text-davinci-003, text-davinci-edit-001, text-embedding-ada-002, text-search-ada-doc-001, text-search-ada-query-001, text-search-babbage-doc-001, text-search-babbage-query-001, text-search-curie-doc-001, text-search-curie-query-001, text-search-davinci-doc-001, text-search-davinci-query-001, text-similarity-ada-001, text-similarity-babbage-001, text-similarity-curie-001, text-similarity-davinci-001
 /v1/edits | text-davinci-edit-001, code-davinci-edit-001
 /v1/audio/transcriptions | whisper-1
 /v1/audio/translations | whisper-1
 /v1/fine-tunes | davinci, curie, babbage, ada
-/v1/embeddings | text-embedding-ada-002, text-search-ada-doc-001
-/v1/moderations | text-moderation-stable, text-moderation-latest
+/v1/embeddings | text-embedding-ada-002, text-search-ada-doc-001, text-search-ada-query-001, text-search-babbage-doc-001, text-search-babbage-query-001, text-search-curie-doc-001, text-search-curie-query-001, text-search-davinci-doc-001, text-search-davinci-query-001
+/v1/moderations | text-moderation-latest, text-moderation-stable
 
 You've successfully integrated the ChatGPT API into your PHP website! Now, you can customize the chat interface and enhance the user experience as needed.
 ## Screenshot

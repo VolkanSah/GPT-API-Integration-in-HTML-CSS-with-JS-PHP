@@ -1,4 +1,5 @@
-### better error handling use
+### some tipps
+- use for better error handling
 ```java
 if (response.ok) {
     const data = await response.json();

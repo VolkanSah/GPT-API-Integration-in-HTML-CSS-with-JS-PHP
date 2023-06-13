@@ -5,7 +5,7 @@ body {
 
 .chat-container {
     width: 100%;
-    max-width: 600px;
+    max-width: 80%;
     margin: 40px auto;
     background-color: #fff;
     border-radius: 5px;
@@ -18,7 +18,7 @@ flex-direction: column;
 flex-grow: 1;
 padding: 20px;
 overflow-y: auto;
-max-height: 400px;
+max-height: 1100px;
 }
 
 .chat-output p {
@@ -50,7 +50,13 @@ border-radius: 3px;
 padding: 10px;
 margin-right: 10px;
 }
-
+.chatname-input {
+    flex-grow: 1;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    margin-right: 10px;
+    }
 .chat-submit {
 padding: 10px 20px;
 background-color: #007bff;

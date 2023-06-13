@@ -19,7 +19,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     
     // Decode the JSON input and store it in a variable
     $input = json_decode(file_get_contents('php://input'), true);
-    
+    $z = "??";
+    error_log(print_r($input, TRUE)); 
+    error_log(print_r($z, TRUE)); 
+    file_put_contents('php://stdout', print_r($input, TRUE));
     // URL-encode the message from the input
     $message = urlencode($input['message']);
     
@@ -30,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // For example, use /v1/chat/completions for GPT-4, GPT-4-0314, GPT-4-32k, GPT-4-32k-0314, GPT-3.5-turbo, and GPT-3.5-turbo-0301 models
 // Use /v1/completions for Lingua models like text-davinci-003, text-davinci-002, text-curie-001, text-babbage-001, and text-ada-001
 // See the readme.md file for more information
-    curl_setopt($ch, CURLOPT_URL, "https://api.openai.com/v1/engines/" . MODEL . "/completions");
+    curl_setopt($ch, CURLOPT_URL, "https://api.openai.com/v1/chat/completions/" . MODEL );
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(array(

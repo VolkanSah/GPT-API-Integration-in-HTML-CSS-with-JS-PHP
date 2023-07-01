@@ -5,7 +5,7 @@
 
 ### Other Important sources for you! Please read befor!
 - [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
-- [ChatGPT Security Best Practices!](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
+- [ChatGPT Security Best Practices (with GPT3.5-Turbo Example)](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
 ###### ChatGPT is interesting, let's use it to create a better world.
 
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP-based website, enabling chat functionality using OpenAI's API.

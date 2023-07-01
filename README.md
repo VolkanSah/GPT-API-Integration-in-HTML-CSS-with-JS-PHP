@@ -6,7 +6,9 @@
 ### Other Important sources for you! Please read befor!
 - [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
 - [ChatGPT Security Best Practices!](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
-- [free 'ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
+### Other cool stuff for GPT!
+- ['ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
+- [ChatGPT ShellMaster (ChatGPT4 Plugin](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 ###### ChatGPT is interesting, let's use it to create a better world.
 
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP-based website, enabling chat functionality using OpenAI's API.

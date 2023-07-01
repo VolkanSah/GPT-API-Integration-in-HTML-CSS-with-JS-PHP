@@ -6,9 +6,6 @@
 ### Other Important sources for you! Please read befor!
 - [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
 - [ChatGPT Security Best Practices!](https://github.com/VolkanSah/ChatGPT-Security-Best-Practices)
-### Other cool stuff for GPT!
-- ['ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
-- [ChatGPT ShellMaster (ChatGPT4 Plugin](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 ###### ChatGPT is interesting, let's use it to create a better world.
 
 This README.md file will guide you through the process of integrating the ChatGPT API into your PHP-based website, enabling chat functionality using OpenAI's API.
@@ -64,6 +61,10 @@ You've successfully integrated the ChatGPT API into your PHP website! Now, you c
 - Volkan (Sah) Kücükbudak
 - [VolkanSah on Github](https://github.com/volkansah)
 - [Developer Site](https://volkansah.github.io)
+
+### Other cool stuff for GPT!
+- ['ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
+- [ChatGPT ShellMaster (ChatGPT4 Plugin](https://github.com/VolkanSah/ChatGPT-ShellMaster)
 
 ### License
 This project is copyright © [VolkanSah](https://github.com/volkansah) and is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and distribute the code and assets, as long as the copyright notice and permission notice are preserved in all copies or substantial portions of the software."

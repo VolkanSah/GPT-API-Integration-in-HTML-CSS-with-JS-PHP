@@ -30,10 +30,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // For example, use /v1/chat/completions for GPT-4, GPT-4-0314, GPT-4-32k, GPT-4-32k-0314, GPT-3.5-turbo, and GPT-3.5-turbo-0301 models
 // Use /v1/completions for Lingua models like text-davinci-003, text-davinci-002, text-curie-001, text-babbage-001, and text-ada-001
 // See the readme.md file for more information
+// if you dont want to use /v1/engines/ than you must remove model from CURLOPT_URL and must set it in CURLOPT_POSTFIELDS! 
     curl_setopt($ch, CURLOPT_URL, "https://api.openai.com/v1/engines/" . MODEL . "/completions");
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(array(
+       #"model" => gpt-3.5-turbo-16k,
         "prompt" => $message,
         "max_tokens" => MAX_TOKENS,
         "temperature" => TEMPERATURE,

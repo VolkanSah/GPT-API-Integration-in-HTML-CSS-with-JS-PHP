@@ -65,6 +65,7 @@ You've successfully integrated the ChatGPT API into your PHP website! Now, you c
 ### Other cool stuff for GPT!
 - ['ChatGPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/ChatGPT-Comments-Reply-WordPress-Plugin)
 - [ChatGPT ShellMaster (ChatGPT4 Plugin](https://github.com/VolkanSah/ChatGPT-ShellMaster)
+- [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
 
 ### License
 This project is copyright © [VolkanSah](https://github.com/volkansah) and is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and distribute the code and assets, as long as the copyright notice and permission notice are preserved in all copies or substantial portions of the software."

@@ -63,9 +63,14 @@ You've successfully integrated the GPT API into your PHP website! Now, you can c
 - [Developer Site](https://volkansah.github.io)
 
 ### Other cool stuff for GPT!
-- ['GPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
 - [ChatGPT ShellMaster (ChatGPT4 Plugin](https://github.com/VolkanSah/GPT-ShellMaster)
+- ['GPT Comment reply' Plugin for WordPress](https://github.com/VolkanSah/GPT-Comments-Reply-WordPress-Plugin)
 - [GPT over CLI](https://github.com/VolkanSah/GPT-over-CLI)
+- [GPT-Security-Best-Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
+- [OpenAi cost calculator](https://github.com/VolkanSah/OpenAI-Cost-Calculator)
+- [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)
+- [Exploring the Code Interpreter in OpenAI](https://github.com/VolkanSah/The-Code-Interpreter-in-OpenAI-ChatGPT)
+
 
 ### License
 This project is copyright © [VolkanSah](https://github.com/volkansah) and is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and distribute the code and assets, as long as the copyright notice and permission notice are preserved in all copies or substantial portions of the software."

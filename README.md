@@ -1,5 +1,5 @@
 # GPT API Integration (in HTML/CSS with JS/PHP)
-###### Updated: 13.07.2023 (Working well) 
+###### Updated: 02.06.2024 modules/endpoints
 
 > [!IMPORTANT]
 > Please note that this code example is for a basic web application to show "How to do it?", not production use! 

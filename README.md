@@ -1,5 +1,8 @@
 # GPT API Integration (in HTML/CSS with JS/PHP)
-###### Updated: 13.07.2023 (Working well) Please note that this code example is for a basic web application. 
+###### Updated: 02.06.2024 | 
+> [!IMPORTANT]
+> This code is an example and shows how to do it! ! Not for "production" use! 
+
 
 ![Screenshot](chatgpt.png)
 

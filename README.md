@@ -1,11 +1,11 @@
 # GPT API Integration (in HTML/CSS with JS/PHP)
 ###### Updated: 02.06.2024 modules/endpoints
 
+![Screenshot](chatgpt.png)
+
+
 > [!IMPORTANT]
 > Please note that this code example is for a basic web application to show "How to do it?", not production use! 
-
-
-![Screenshot](chatgpt.png)
 
 ### Other Important sources for you! Please read befor!
 - [Secure Implementation of Artificial Intelligence (AI)](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper)

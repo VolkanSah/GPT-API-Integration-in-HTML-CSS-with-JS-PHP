@@ -1,4 +1,4 @@
-# GPT API Integration (in HTML/CSS with JS/PHP)
+# GPT API Integration with stream (in HTML/CSS with JS/PHP) 
 ###### Updated: 02.06.2024 modules/endpoints
 
 ![Screenshot](chatgpt.png)

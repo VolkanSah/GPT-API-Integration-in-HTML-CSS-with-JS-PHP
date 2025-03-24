@@ -2,6 +2,7 @@
 ###### Updated: 02.06.2024 modules/endpoints
 
 ![Screenshot](chatgpt.png)
+[Need API-Stream? - show this branch](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP/tree/gpt-with-stream)
 
 
 > [!IMPORTANT]

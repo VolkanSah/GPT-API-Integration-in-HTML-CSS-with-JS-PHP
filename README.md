@@ -1,5 +1,5 @@
 # GPT API Integration (in HTML/CSS with JS/PHP)
-###### Updated: 02.06.2024 modules/endpoints
+###### Updated: 02.07.2025 modules/endpoints
 
 ![Screenshot](chatgpt.png)
 [Need API-Stream? - show this branch](https://github.com/VolkanSah/GPT-API-Integration-in-HTML-CSS-with-JS-PHP/tree/gpt-with-stream)

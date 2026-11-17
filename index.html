@@ -3,17 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GPTChat API Integration</title>
+<title>GPTChat</title>
 <link rel="stylesheet" href="style.css">
 <script src="script.js" defer></script>
 </head>
 <body>
 <div class="chat-container">
-<div id="chat-output" class="chat-output"></div>
-<form id="chat-form" class="chat-input-form">
-<input type="text" id="chat-input" class="chat-input" placeholder="Type your message here" autocomplete="off">
-<button type="submit" class="chat-submit">Send</button>
-</form>
+  <div id="chat-output" class="chat-output" aria-live="polite"></div>
+  <form id="chat-form" class="chat-input-form">
+    <input type="text" id="chat-input" class="chat-input" placeholder="Type your message here" autocomplete="off" maxlength="4000">
+    <button type="submit" id="chat-submit" class="chat-submit">Send</button>
+    <button type="button" id="chat-reset" class="chat-reset" title="Start a new chat">New</button>
+  </form>
 </div>
 </body>
 </html>

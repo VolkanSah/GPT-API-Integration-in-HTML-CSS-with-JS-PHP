@@ -103,3 +103,5 @@ Error messages from the provider (wrong model name, invalid key, ...) are shown 
 > to choose their AI provider freely and, where possible, run it themselves.
 > The code was tested against a local mock server. I do not provide support for
 > OpenAI-specific issues; please check your provider's documentation for those.
+
+**README.md (re)written by AI Helper after my chaos!
